@@ -1,9 +1,10 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# Hi There! I'm Lex
+This is blog for [me](https://github.com/Lex669). Powered by [fuwari](https://github.com/saicaca/fuwari)
 
-::github{repo="saicaca/fuwari"}
+## About
+- *A graduate student from **HFUT***
+- *Research focus is **semiconductor inspection***
+- *Interesting in **AI, Deep Learning, Robotics***
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## Plan
+显而易见，该项目使用**netlify**部署，同时已有一个部署了*Hermes Agent*腾讯云，单单部署*Hermes Agent*有点浪费，所有之后会转移到**腾讯云 + nginx**部署
